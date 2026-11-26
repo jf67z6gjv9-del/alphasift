@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jf67z6gjv9-del.github.io/alphasift/sitemap.xml

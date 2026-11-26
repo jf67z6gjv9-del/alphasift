@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>AlphaSift · Quantitative Discovery &amp; Track Record</title>
+  <subtitle>Multi-market YAML screening, empirical pattern radar, and T+5/T+10/T+20 audited excess returns.</subtitle>
+  <id>https://jf67z6gjv9-del.github.io/alphasift/</id>
+  <link href="https://jf67z6gjv9-del.github.io/alphasift/" rel="alternate" type="text/html"/>
+  <link href="https://jf67z6gjv9-del.github.io/alphasift/site/feed.xml" rel="self" type="application/atom+xml"/>
+  <updated>2026-11-26T00:46:28+00:00</updated>
+  <author><name>AlphaSift</name></author>
+  <entry>
+    <id>https://jf67z6gjv9-del.github.io/alphasift/#day-2026-11-26</id>
+    <title>AlphaSift · 2026-11-26 · 2 runs</title>
+    <link href="https://jf67z6gjv9-del.github.io/alphasift/" rel="alternate" type="text/html"/>
+    <updated>2026-11-26T00:46:28+00:00</updated>
+    <summary>2 strategy runs recorded on 2026-11-26.</summary>
+    <content type="html">&lt;p&gt;2 strategy runs recorded on 2026-11-26.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;JP&lt;/b&gt; (全球低估值): 1605.T Inpex Corporation, 9501.T Tokyo Electric Power Company Holdings, Incorporated, 7261.T Mazda Motor Corporation&lt;/li&gt;&lt;li&gt;&lt;b&gt;KR&lt;/b&gt; (全球低估值): 015760.KS Korea Electric Power Corporation, 000270.KS Kia Corporation, 078930.KS GS Holdings Corp.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://jf67z6gjv9-del.github.io/alphasift/"&gt;Live Dashboard&lt;/a&gt; · &lt;a href="https://jf67z6gjv9-del.github.io/alphasift/site/daily_report.html"&gt;CN Daily Report&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://jf67z6gjv9-del.github.io/alphasift/#day-2026-11-25</id>
+    <title>AlphaSift · 2026-11-25 · 12 runs</title>
+    <link href="https://jf67z6gjv9-del.github.io/alphasift/" rel="alternate" type="text/html"/>
+    <updated>2026-11-25T18:30:00+08:00</updated>
+    <summary>12 strategy runs recorded on 2026-11-25. CN brief: 【旧包降级】盘面处于冰点阶段，上涨 10.5%（中位数 -3.77%），涨跌停 51/46（封板率 63.0%），公告排雷命中 1 只预警</summary>
+    <content type="html">&lt;p&gt;12 strategy runs recorded on 2026-11-25. CN brief: 【旧包降级】盘面处于冰点阶段，上涨 10.5%（中位数 -3.77%），涨跌停 51/46（封板率 63.0%），公告排雷命中 1 只预警&lt;/p&gt;&lt;p&gt;&lt;a href="https://jf67z6gjv9-del.github.io/alphasift/"&gt;Live Dashboard&lt;/a&gt; · &lt;a href="https://jf67z6gjv9-del.github.io/alphasift/site/daily_report.html"&gt;CN Daily Report&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+</feed>

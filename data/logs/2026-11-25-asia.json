@@ -1,0 +1,176 @@
+{
+  "session": "asia",
+  "date": "2026-11-25",
+  "finished_at": "2026-11-26T00:45:59+00:00",
+  "entries": [
+    {
+      "market": "cn",
+      "strategy": "balanced_alpha",
+      "track": "rules",
+      "status": "ok",
+      "run_id": "43800aee613f",
+      "picks": 5,
+      "snapshot_source": "em_datacenter",
+      "degradation": 0,
+      "seconds": 0.0
+    },
+    {
+      "market": "cn",
+      "strategy": "blue_chip_income",
+      "track": "rules",
+      "status": "ok",
+      "run_id": "fbe52abe3653",
+      "picks": 5,
+      "snapshot_source": "em_datacenter",
+      "degradation": 0,
+      "seconds": 0.0
+    },
+    {
+      "market": "cn",
+      "strategy": "capital_heat",
+      "track": "rules",
+      "status": "ok",
+      "run_id": "a7a8554417fb",
+      "picks": 5,
+      "snapshot_source": "em_datacenter",
+      "degradation": 0,
+      "seconds": 0.0
+    },
+    {
+      "market": "cn",
+      "strategy": "dual_low",
+      "track": "rules",
+      "status": "ok",
+      "run_id": "324b0b1b122e",
+      "picks": 5,
+      "snapshot_source": "em_datacenter",
+      "degradation": 0,
+      "seconds": 0.0
+    },
+    {
+      "market": "cn",
+      "strategy": "low_volatility_quality",
+      "track": "rules",
+      "status": "ok",
+      "run_id": "a612accb7271",
+      "picks": 5,
+      "snapshot_source": "em_datacenter",
+      "degradation": 0,
+      "seconds": 0.1
+    },
+    {
+      "market": "cn",
+      "strategy": "momentum_quality",
+      "track": "rules",
+      "status": "ok",
+      "run_id": "8d8d02334a72",
+      "picks": 5,
+      "snapshot_source": "em_datacenter",
+      "degradation": 0,
+      "seconds": 0.1
+    },
+    {
+      "market": "cn",
+      "strategy": "oversold_reversal",
+      "track": "rules",
+      "status": "ok",
+      "run_id": "de30d37ebfb1",
+      "picks": 5,
+      "snapshot_source": "em_datacenter",
+      "degradation": 0,
+      "seconds": 0.1
+    },
+    {
+      "market": "cn",
+      "strategy": "quality_value",
+      "track": "rules",
+      "status": "ok",
+      "run_id": "5151ceb755b5",
+      "picks": 5,
+      "snapshot_source": "em_datacenter",
+      "degradation": 0,
+      "seconds": 0.1
+    },
+    {
+      "market": "cn",
+      "strategy": "shrink_pullback",
+      "track": "rules",
+      "status": "ok",
+      "run_id": "009b1e4304a5",
+      "picks": 5,
+      "snapshot_source": "em_datacenter",
+      "degradation": 1,
+      "seconds": 0.2
+    },
+    {
+      "market": "cn",
+      "strategy": "volume_breakout",
+      "track": "rules",
+      "status": "ok",
+      "run_id": "cdf112104138",
+      "picks": 0,
+      "snapshot_source": "em_datacenter",
+      "degradation": 1,
+      "seconds": 0.1
+    },
+    {
+      "market": "hk",
+      "strategy": "global_value",
+      "track": "rules",
+      "status": "ok",
+      "run_id": "5453c16ece7a",
+      "picks": 5,
+      "snapshot_source": "yahoo_screener",
+      "degradation": 0,
+      "seconds": 0.0
+    },
+    {
+      "market": "jp",
+      "strategy": "global_value",
+      "track": "rules",
+      "status": "ok",
+      "run_id": "006a36ecbe7c",
+      "picks": 5,
+      "snapshot_source": "yahoo_screener",
+      "degradation": 0,
+      "seconds": 0.0
+    },
+    {
+      "market": "kr",
+      "strategy": "global_value",
+      "track": "rules",
+      "status": "ok",
+      "run_id": "dd350e8dc1ef",
+      "picks": 5,
+      "snapshot_source": "yahoo_screener",
+      "degradation": 0,
+      "seconds": 0.0
+    },
+    {
+      "market": "tw",
+      "strategy": "global_value",
+      "track": "rules",
+      "status": "skipped_holiday",
+      "error": "market closed (quotes 2026-11-25, benchmark 2026-11-24 < 2026-11-26)",
+      "seconds": 0.0
+    },
+    {
+      "market": "in",
+      "strategy": "global_value",
+      "track": "rules",
+      "status": "ok",
+      "run_id": "680962a3b8e6",
+      "picks": 5,
+      "snapshot_source": "yahoo_screener",
+      "degradation": 0,
+      "seconds": 0.0
+    }
+  ],
+  "effective_dates": {
+    "cn": "2026-11-25",
+    "hk": "2026-11-25",
+    "jp": "2026-11-26",
+    "kr": "2026-11-26",
+    "in": "2026-11-25"
+  }
+}
