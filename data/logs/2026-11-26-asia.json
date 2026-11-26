@@ -1,0 +1,174 @@
+{
+  "session": "asia",
+  "date": "2026-11-26",
+  "finished_at": "2026-11-26T10:55:40+00:00",
+  "entries": [
+    {
+      "market": "cn",
+      "strategy": "balanced_alpha",
+      "track": "rules",
+      "status": "ok",
+      "run_id": "38ba78bb1949",
+      "picks": 5,
+      "snapshot_source": "em_datacenter",
+      "degradation": 0,
+      "seconds": 0.0
+    },
+    {
+      "market": "cn",
+      "strategy": "blue_chip_income",
+      "track": "rules",
+      "status": "ok",
+      "run_id": "6c31a86953d6",
+      "picks": 5,
+      "snapshot_source": "em_datacenter",
+      "degradation": 0,
+      "seconds": 0.0
+    },
+    {
+      "market": "cn",
+      "strategy": "capital_heat",
+      "track": "rules",
+      "status": "ok",
+      "run_id": "b88f05758f5a",
+      "picks": 5,
+      "snapshot_source": "em_datacenter",
+      "degradation": 0,
+      "seconds": 0.0
+    },
+    {
+      "market": "cn",
+      "strategy": "dual_low",
+      "track": "rules",
+      "status": "ok",
+      "run_id": "c4e47bf51233",
+      "picks": 5,
+      "snapshot_source": "em_datacenter",
+      "degradation": 0,
+      "seconds": 0.0
+    },
+    {
+      "market": "cn",
+      "strategy": "low_volatility_quality",
+      "track": "rules",
+      "status": "ok",
+      "run_id": "fdd880b99ee2",
+      "picks": 5,
+      "snapshot_source": "em_datacenter",
+      "degradation": 0,
+      "seconds": 0.1
+    },
+    {
+      "market": "cn",
+      "strategy": "momentum_quality",
+      "track": "rules",
+      "status": "ok",
+      "run_id": "a7a42f10780d",
+      "picks": 5,
+      "snapshot_source": "em_datacenter",
+      "degradation": 0,
+      "seconds": 0.1
+    },
+    {
+      "market": "cn",
+      "strategy": "oversold_reversal",
+      "track": "rules",
+      "status": "ok",
+      "run_id": "0f74758a6227",
+      "picks": 5,
+      "snapshot_source": "em_datacenter",
+      "degradation": 0,
+      "seconds": 0.0
+    },
+    {
+      "market": "cn",
+      "strategy": "quality_value",
+      "track": "rules",
+      "status": "ok",
+      "run_id": "726b6d833b09",
+      "picks": 5,
+      "snapshot_source": "em_datacenter",
+      "degradation": 0,
+      "seconds": 0.1
+    },
+    {
+      "market": "cn",
+      "strategy": "shrink_pullback",
+      "track": "rules",
+      "status": "ok",
+      "run_id": "8cdecdd659fd",
+      "picks": 5,
+      "snapshot_source": "em_datacenter",
+      "degradation": 0,
+      "seconds": 0.1
+    },
+    {
+      "market": "cn",
+      "strategy": "volume_breakout",
+      "track": "rules",
+      "status": "ok",
+      "run_id": "7d4b93255f36",
+      "picks": 0,
+      "snapshot_source": "em_datacenter",
+      "degradation": 1,
+      "seconds": 0.1
+    },
+    {
+      "market": "hk",
+      "strategy": "global_value",
+      "track": "rules",
+      "status": "ok",
+      "run_id": "c88a0b623b70",
+      "picks": 5,
+      "snapshot_source": "yahoo_screener",
+      "degradation": 0,
+      "seconds": 0.0
+    },
+    {
+      "market": "jp",
+      "strategy": "global_value",
+      "track": "rules",
+      "status": "skipped_duplicate",
+      "error": "already recorded 2026-11-26",
+      "seconds": 0.0
+    },
+    {
+      "market": "kr",
+      "strategy": "global_value",
+      "track": "rules",
+      "status": "skipped_duplicate",
+      "error": "already recorded 2026-11-26",
+      "seconds": 0.0
+    },
+    {
+      "market": "tw",
+      "strategy": "global_value",
+      "track": "rules",
+      "status": "ok",
+      "run_id": "daed51dca369",
+      "picks": 5,
+      "snapshot_source": "yahoo_screener",
+      "degradation": 0,
+      "seconds": 0.0
+    },
+    {
+      "market": "in",
+      "strategy": "global_value",
+      "track": "rules",
+      "status": "ok",
+      "run_id": "18fe86bc8b1a",
+      "picks": 5,
+      "snapshot_source": "yahoo_screener",
+      "degradation": 0,
+      "seconds": 0.0
+    }
+  ],
+  "effective_dates": {
+    "cn": "2026-11-26",
+    "hk": "2026-11-26",
+    "jp": "2026-11-26",
+    "kr": "2026-11-26",
+    "tw": "2026-11-26",
+    "in": "2026-11-26"
+  }
+}
