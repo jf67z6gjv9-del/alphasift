@@ -5028,6 +5028,7 @@
     ]
   },
   "usage_policy": "cn_only_regime_slice_only",
-  "expected_trade_date": "2026-11-26",
-  "pack_is_stale": false
+  "expected_trade_date": "2026-11-27",
+  "pack_is_stale": true,
+  "stale_reason": "数据包截止 2026-11-26，落后目标交易日 2026-11-27（降级展示）"
 }

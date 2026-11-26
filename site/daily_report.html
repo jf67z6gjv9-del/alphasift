@@ -240,16 +240,16 @@ footer { margin-top: 32px; padding-top: 16px; border-top: 1px solid var(--border
     <div class="meta-row">
       <span><span data-i18n="meta_tdate">交易日</span> <b>2026-11-26</b></span>
       <span>· <span data-i18n="meta_pdate">数据包</span> <code>2026-11-26</code></span>
-      <span class="badge ok" data-i18n="badge_sync">数据同步</span>
+      <span class="badge warn" data-i18n="badge_stale">旧包降级</span>
       <span>· <span data-i18n="meta_policy">口径：</span><code data-i18n="policy_cn_slice">仅A股 · 情绪仅切片观察</code></span>
     </div>
   </header>
-  
-  
+  <div class="stale-banner" data-i18n="stale_banner" data-i18n-vars="{&quot;pack&quot;: &quot;2026-11-26&quot;, &quot;exp&quot;: &quot;2026-11-27&quot;, &quot;reason&quot;: &quot;pack_trade_date=2026-11-26 &lt; expected_trade_date=2026-11-27&quot;}">⚠️ <b>旧包降级模式</b>：数据包日期 <code>2026-11-26</code> 落后于目标交易日 <code>2026-11-27</code>（pack_trade_date=2026-11-26 &lt; expected_trade_date=2026-11-27），数据仅供观察，已自动拦截未强制 IM 推送。</div>
+  <div class="notice"><span data-i18n="deg_prefix">降级说明：</span>Stale pack: pack_trade_date=2026-11-26 &lt; expected_trade_date=2026-11-27</div>
   
     <section class="panel brief-box" id="brief">
       <div class="sec-head"><h2 data-i18n="sec_brief">盘后要点综述</h2><span class="badge accent" data-i18n="brief_badge_rule">规则统计合成</span></div>
-      <div class="brief-headline">盘面处于分歧阶段，上涨 31.7%（中位数 -0.79%），涨跌停 67/6（封板率 67.7%），公告排雷命中 2 只预警</div>
+      <div class="brief-headline">【旧包降级】盘面处于分歧阶段，上涨 31.7%（中位数 -0.79%），涨跌停 67/6（封板率 67.7%），公告排雷命中 2 只预警</div>
       <div class="grid two-col">
         <div class="sub-panel">
           <h3 class="subhead" data-i18n="sub_regime">盘面宽度与情绪</h3>
@@ -261,7 +261,7 @@ footer { margin-top: 32px; padding-top: 16px; border-top: 1px solid var(--border
         </div>
       </div>
       <div class="grid two-col" style="margin-top:10px;">
-        <div class="sub-panel"><h3 class="subhead" data-i18n="sub_risk">风险提示</h3><ul class="bullet-list"><li>公告预警：000963 华东医药 命中 [质押冻结]</li><li>公告预警：002008 大族激光 命中 [质押冻结]</li></ul></div>
+        <div class="sub-panel"><h3 class="subhead" data-i18n="sub_risk">风险提示</h3><ul class="bullet-list"><li>数据包滞后（包日期 2026-11-26 &lt; 目标日 2026-11-27），盘面与形态仅供参考。</li><li>公告预警：000963 华东医药 命中 [质押冻结]</li><li>公告预警：002008 大族激光 命中 [质押冻结]</li></ul></div>
         <div class="sub-panel"><h3 class="subhead" data-i18n="sub_watch">次日观察点</h3><ul class="bullet-list"><li>观察次日上涨占比能否从 31.7% 修复、跌停家数（6 只）是否收敛；</li><li>跟踪昨日涨停溢价（+3.22%）与连板梯队（5 板）高度延续情况；</li><li>复盘多策略共识标的（600600 青岛啤酒 等）次日开盘承接与换手。</li></ul></div>
       </div>
     </section>
@@ -292,7 +292,7 @@ footer { margin-top: 32px; padding-top: 16px; border-top: 1px solid var(--border
         <h2 data-i18n="sec_news">📰 市场热点与政策快讯</h2>
         <span class="badge">东方财富7x24 · 同花顺快讯</span>
       </div>
-      <ul class="bullet-list"><li><span class="badge">公司动态</span> <b>通富微电：董事长提议回购1.5亿至3亿元股份</b> <span class="dim small">东方财富7x24 11-26 18:51</span></li><li><span class="badge">宏观政策</span> <b>英国央行：近期微软和谷歌的服务中断凸显了金融机构不能过度依赖单一供应商的重要性</b> <span class="dim small">东方财富7x24 11-26 18:48</span></li><li><span class="badge">公司动态</span> <b>百度于11月26日斥资约1106万港元回购18.25万股</b> <span class="dim small">东方财富7x24 11-26 18:42</span></li><li><span class="badge">市场要闻</span> <b>*ST沐邦：撤销退市风险警示并继续实施其他风险警示 11月30日起股票简称变更为“ST沐邦”</b> <span class="dim small">东方财富7x24 11-26 18:27</span></li><li><span class="badge">海外市场</span> <b>凌云光：拟620万美元增资PhotonicX AI 加码光通信业务</b> <span class="dim small">东方财富7x24 11-26 18:25</span></li><li><span class="badge">宏观政策</span> <b>上交所向克来机电下发监管工作函</b> <span class="dim small">东方财富7x24 11-26 18:24</span></li></ul>
+      <ul class="bullet-list"><li><span class="badge">公司动态</span> <b>据报道：德国软件巨头SAP正考虑在重组中裁减至少1万个工作岗位</b> <span class="dim small">东方财富7x24 11-27 00:17</span></li><li><span class="badge">市场要闻</span> <b>瑞银承诺维持全球业务布局 回应瑞士议会委员会支持加码资本监管</b> <span class="dim small">东方财富7x24 11-26 23:44</span></li><li><span class="badge">市场要闻</span> <b>欧盟委员会的会议议程显示：12月15日的会议可能就特斯拉的辅助驾驶系统进行投票</b> <span class="dim small">东方财富7x24 11-26 23:27</span></li><li><span class="badge">市场要闻</span> <b>星图测控：被禁止参加军事航天部队采购活动2年</b> <span class="dim small">东方财富7x24 11-26 23:16</span></li><li><span class="badge">海外市场</span> <b>汇丰银行将惠普评级从买入下调至持有；目标价从33.4美元下调至29.4美元</b> <span class="dim small">东方财富7x24 11-26 22:44</span></li><li><span class="badge">市场要闻</span> <b>茅台集团总经理王莉与贵州爱茅台数科公司技术人员交流座谈</b> <span class="dim small">东方财富7x24 11-26 22:24</span></li></ul>
     </section>
     
   
@@ -331,7 +331,7 @@ footer { margin-top: 32px; padding-top: 16px; border-top: 1px solid var(--border
       <p class="dim small" style="margin:10px 0 0;" data-i18n="pat_wf_boundary_note_stats" data-i18n-vars="{&quot;mid&quot;: &quot;2026-07-02&quot;, &quot;n&quot;: 747}">注：Walk-Forward H1 严格按实际退出日 &lt; 2026-07-02 截断（累计剔除 747 条跨界信号），避免 H2 价格区间泄漏进逆风判定。</p>
     </section>
     
-  <footer><span data-i18n="disclaimer">仅供量化研究与复盘观察，不构成投资建议。</span> · <span data-i18n="footer_tag">量化形态观测与回测基准</span> · <a href="https://github.com/ZhuLinsen/alphasift" data-i18n="footer_repo">GitHub 开源仓库</a> · Generated 2026-11-26T10:57:55.063170+00:00</footer>
+  <footer><span data-i18n="disclaimer">仅供量化研究与复盘观察，不构成投资建议。</span> · <span data-i18n="footer_tag">量化形态观测与回测基准</span> · <a href="https://github.com/ZhuLinsen/alphasift" data-i18n="footer_repo">GitHub 开源仓库</a> · Generated 2026-11-26T19:47:06.038925+00:00</footer>
 </main>
 <script>
 (function () {
