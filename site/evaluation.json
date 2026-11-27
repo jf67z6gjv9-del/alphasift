@@ -1,5 +1,5 @@
 {
- "evaluated_at": "2026-11-27T11:46:47+00:00",
+ "evaluated_at": "2026-11-27T19:37:06+00:00",
  "entry_mode_switch_date": "2026-11-21",
  "windows": [
   5,
@@ -8,7 +8,7 @@
  ],
  "runs": {
   "43800aee613f": {
-   "evaluated_at": "2026-11-27T11:46:47+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -149,7 +149,7 @@
    }
   },
   "fbe52abe3653": {
-   "evaluated_at": "2026-11-27T11:46:47+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -290,7 +290,7 @@
    }
   },
   "a7a8554417fb": {
-   "evaluated_at": "2026-11-27T11:46:47+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -431,7 +431,7 @@
    }
   },
   "324b0b1b122e": {
-   "evaluated_at": "2026-11-27T11:46:47+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -572,7 +572,7 @@
    }
   },
   "a612accb7271": {
-   "evaluated_at": "2026-11-27T11:46:47+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -713,7 +713,7 @@
    }
   },
   "8d8d02334a72": {
-   "evaluated_at": "2026-11-27T11:46:47+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -854,7 +854,7 @@
    }
   },
   "de30d37ebfb1": {
-   "evaluated_at": "2026-11-27T11:46:47+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -995,7 +995,7 @@
    }
   },
   "5151ceb755b5": {
-   "evaluated_at": "2026-11-27T11:46:47+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -1136,7 +1136,7 @@
    }
   },
   "009b1e4304a5": {
-   "evaluated_at": "2026-11-27T11:46:47+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -1310,7 +1310,7 @@
    }
   },
   "5453c16ece7a": {
-   "evaluated_at": "2026-11-26T19:46:55+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -1322,27 +1322,37 @@
       "0267.HK": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 11.99,
+       "entry_date": "2026-11-26"
       },
       "0001.HK": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 64.2,
+       "entry_date": "2026-11-26"
       },
       "1988.HK": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 3.025,
+       "entry_date": "2026-11-26"
       },
       "1398.HK": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 7.66,
+       "entry_date": "2026-11-26"
       },
       "0358.HK": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 18.9,
+       "entry_date": "2026-11-26"
       }
      },
      "untradable": 0,
@@ -1357,27 +1367,37 @@
       "0267.HK": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 11.99,
+       "entry_date": "2026-11-26"
       },
       "0001.HK": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 64.2,
+       "entry_date": "2026-11-26"
       },
       "1988.HK": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 3.025,
+       "entry_date": "2026-11-26"
       },
       "1398.HK": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 7.66,
+       "entry_date": "2026-11-26"
       },
       "0358.HK": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 18.9,
+       "entry_date": "2026-11-26"
       }
      },
      "untradable": 0,
@@ -1392,27 +1412,37 @@
       "0267.HK": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 11.99,
+       "entry_date": "2026-11-26"
       },
       "0001.HK": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 64.2,
+       "entry_date": "2026-11-26"
       },
       "1988.HK": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 3.025,
+       "entry_date": "2026-11-26"
       },
       "1398.HK": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 7.66,
+       "entry_date": "2026-11-26"
       },
       "0358.HK": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 18.9,
+       "entry_date": "2026-11-26"
       }
      },
      "untradable": 0,
@@ -1421,7 +1451,7 @@
    }
   },
   "006a36ecbe7c": {
-   "evaluated_at": "2026-11-26T19:46:55+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -1532,7 +1562,7 @@
    }
   },
   "dd350e8dc1ef": {
-   "evaluated_at": "2026-11-26T19:46:55+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -1643,7 +1673,7 @@
    }
   },
   "680962a3b8e6": {
-   "evaluated_at": "2026-11-26T19:46:55+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -1655,27 +1685,37 @@
       "ONGC.NS": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 222.7,
+       "entry_date": "2026-11-26"
       },
       "BANKBARODA.NS": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 277.4,
+       "entry_date": "2026-11-26"
       },
       "IOC.NS": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 146.1,
+       "entry_date": "2026-11-26"
       },
       "PNB.NS": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 148.35,
+       "entry_date": "2026-11-26"
       },
       "HINDALCO.NS": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 896.5,
+       "entry_date": "2026-11-26"
       }
      },
      "untradable": 0,
@@ -1690,27 +1730,37 @@
       "ONGC.NS": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 222.7,
+       "entry_date": "2026-11-26"
       },
       "BANKBARODA.NS": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 277.4,
+       "entry_date": "2026-11-26"
       },
       "IOC.NS": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 146.1,
+       "entry_date": "2026-11-26"
       },
       "PNB.NS": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 148.35,
+       "entry_date": "2026-11-26"
       },
       "HINDALCO.NS": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 896.5,
+       "entry_date": "2026-11-26"
       }
      },
      "untradable": 0,
@@ -1725,27 +1775,37 @@
       "ONGC.NS": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 222.7,
+       "entry_date": "2026-11-26"
       },
       "BANKBARODA.NS": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 277.4,
+       "entry_date": "2026-11-26"
       },
       "IOC.NS": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 146.1,
+       "entry_date": "2026-11-26"
       },
       "PNB.NS": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 148.35,
+       "entry_date": "2026-11-26"
       },
       "HINDALCO.NS": {
        "status": "pending",
        "return_pct": null,
-       "excess_return_pct": null
+       "excess_return_pct": null,
+       "entry_open": 896.5,
+       "entry_date": "2026-11-26"
       }
      },
      "untradable": 0,
@@ -1754,7 +1814,7 @@
    }
   },
   "38ba78bb1949": {
-   "evaluated_at": "2026-11-27T11:46:47+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -1895,7 +1955,7 @@
    }
   },
   "6c31a86953d6": {
-   "evaluated_at": "2026-11-27T11:46:47+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -2036,7 +2096,7 @@
    }
   },
   "b88f05758f5a": {
-   "evaluated_at": "2026-11-27T11:46:47+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -2177,7 +2237,7 @@
    }
   },
   "c4e47bf51233": {
-   "evaluated_at": "2026-11-27T11:46:47+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -2318,7 +2378,7 @@
    }
   },
   "fdd880b99ee2": {
-   "evaluated_at": "2026-11-27T11:46:47+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -2459,7 +2519,7 @@
    }
   },
   "a7a42f10780d": {
-   "evaluated_at": "2026-11-27T11:46:47+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -2600,7 +2660,7 @@
    }
   },
   "0f74758a6227": {
-   "evaluated_at": "2026-11-27T11:46:47+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -2741,7 +2801,7 @@
    }
   },
   "726b6d833b09": {
-   "evaluated_at": "2026-11-27T11:46:47+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -2882,7 +2942,7 @@
    }
   },
   "8cdecdd659fd": {
-   "evaluated_at": "2026-11-27T11:46:47+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -3056,7 +3116,7 @@
    }
   },
   "c88a0b623b70": {
-   "evaluated_at": "2026-11-26T19:46:55+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -3167,7 +3227,7 @@
    }
   },
   "daed51dca369": {
-   "evaluated_at": "2026-11-26T19:46:55+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -3278,7 +3338,7 @@
    }
   },
   "18fe86bc8b1a": {
-   "evaluated_at": "2026-11-26T19:46:55+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -3389,7 +3449,7 @@
    }
   },
   "83f2092c8e91": {
-   "evaluated_at": "2026-11-27T11:46:47+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -3500,7 +3560,7 @@
    }
   },
   "76b75779bec7": {
-   "evaluated_at": "2026-11-27T11:46:47+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -3611,7 +3671,7 @@
    }
   },
   "08e1c87c927e": {
-   "evaluated_at": "2026-11-27T11:46:47+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -3722,7 +3782,7 @@
    }
   },
   "66be7b3e16c0": {
-   "evaluated_at": "2026-11-27T11:46:47+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -3833,7 +3893,7 @@
    }
   },
   "64363c7c700d": {
-   "evaluated_at": "2026-11-27T11:46:47+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -3944,7 +4004,7 @@
    }
   },
   "d6b3ffca07a3": {
-   "evaluated_at": "2026-11-27T11:46:47+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -4055,7 +4115,7 @@
    }
   },
   "e419f307ed47": {
-   "evaluated_at": "2026-11-27T11:46:47+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -4166,7 +4226,7 @@
    }
   },
   "2c0157562516": {
-   "evaluated_at": "2026-11-27T11:46:47+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -4277,7 +4337,7 @@
    }
   },
   "61ffd2acc41a": {
-   "evaluated_at": "2026-11-27T11:46:47+00:00",
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
    "final": false,
    "windows": {
     "5": {
@@ -4417,6 +4477,561 @@
      "picks": {},
      "untradable": 0,
      "untradable_share_pct": null
+    }
+   }
+  },
+  "3178074cc9fa": {
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
+   "final": false,
+   "windows": {
+    "5": {
+     "entry_mode": "next_open",
+     "benchmark": "Hang Seng",
+     "benchmark_return_pct": null,
+     "pending": 5,
+     "picks": {
+      "0267.HK": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "0998.HK": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "0001.HK": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "1398.HK": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "0300.HK": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      }
+     },
+     "untradable": 0,
+     "untradable_share_pct": 0.0
+    },
+    "10": {
+     "entry_mode": "next_open",
+     "benchmark": "Hang Seng",
+     "benchmark_return_pct": null,
+     "pending": 5,
+     "picks": {
+      "0267.HK": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "0998.HK": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "0001.HK": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "1398.HK": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "0300.HK": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      }
+     },
+     "untradable": 0,
+     "untradable_share_pct": 0.0
+    },
+    "20": {
+     "entry_mode": "next_open",
+     "benchmark": "Hang Seng",
+     "benchmark_return_pct": null,
+     "pending": 5,
+     "picks": {
+      "0267.HK": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "0998.HK": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "0001.HK": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "1398.HK": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "0300.HK": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      }
+     },
+     "untradable": 0,
+     "untradable_share_pct": 0.0
+    }
+   }
+  },
+  "de284eb95b15": {
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
+   "final": false,
+   "windows": {
+    "5": {
+     "entry_mode": "next_open",
+     "benchmark": "Nikkei 225",
+     "benchmark_return_pct": null,
+     "pending": 5,
+     "picks": {
+      "9022.T": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "9501.T": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "7261.T": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "5401.T": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "543A.T": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      }
+     },
+     "untradable": 0,
+     "untradable_share_pct": 0.0
+    },
+    "10": {
+     "entry_mode": "next_open",
+     "benchmark": "Nikkei 225",
+     "benchmark_return_pct": null,
+     "pending": 5,
+     "picks": {
+      "9022.T": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "9501.T": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "7261.T": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "5401.T": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "543A.T": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      }
+     },
+     "untradable": 0,
+     "untradable_share_pct": 0.0
+    },
+    "20": {
+     "entry_mode": "next_open",
+     "benchmark": "Nikkei 225",
+     "benchmark_return_pct": null,
+     "pending": 5,
+     "picks": {
+      "9022.T": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "9501.T": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "7261.T": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "5401.T": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "543A.T": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      }
+     },
+     "untradable": 0,
+     "untradable_share_pct": 0.0
+    }
+   }
+  },
+  "25b5c2a52e32": {
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
+   "final": false,
+   "windows": {
+    "5": {
+     "entry_mode": "next_open",
+     "benchmark": "KOSPI",
+     "benchmark_return_pct": null,
+     "pending": 5,
+     "picks": {
+      "138930.KS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "024110.KS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "036460.KS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "078930.KS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "000270.KS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      }
+     },
+     "untradable": 0,
+     "untradable_share_pct": 0.0
+    },
+    "10": {
+     "entry_mode": "next_open",
+     "benchmark": "KOSPI",
+     "benchmark_return_pct": null,
+     "pending": 5,
+     "picks": {
+      "138930.KS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "024110.KS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "036460.KS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "078930.KS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "000270.KS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      }
+     },
+     "untradable": 0,
+     "untradable_share_pct": 0.0
+    },
+    "20": {
+     "entry_mode": "next_open",
+     "benchmark": "KOSPI",
+     "benchmark_return_pct": null,
+     "pending": 5,
+     "picks": {
+      "138930.KS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "024110.KS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "036460.KS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "078930.KS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "000270.KS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      }
+     },
+     "untradable": 0,
+     "untradable_share_pct": 0.0
+    }
+   }
+  },
+  "4037bb716ca2": {
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
+   "final": false,
+   "windows": {
+    "5": {
+     "entry_mode": "next_open",
+     "benchmark": "TAIEX",
+     "benchmark_return_pct": null,
+     "pending": 5,
+     "picks": {
+      "2603.TW": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "5871.TW": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "2615.TW": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "1605.TW": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "9904.TW": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      }
+     },
+     "untradable": 0,
+     "untradable_share_pct": 0.0
+    },
+    "10": {
+     "entry_mode": "next_open",
+     "benchmark": "TAIEX",
+     "benchmark_return_pct": null,
+     "pending": 5,
+     "picks": {
+      "2603.TW": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "5871.TW": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "2615.TW": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "1605.TW": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "9904.TW": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      }
+     },
+     "untradable": 0,
+     "untradable_share_pct": 0.0
+    },
+    "20": {
+     "entry_mode": "next_open",
+     "benchmark": "TAIEX",
+     "benchmark_return_pct": null,
+     "pending": 5,
+     "picks": {
+      "2603.TW": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "5871.TW": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "2615.TW": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "1605.TW": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "9904.TW": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      }
+     },
+     "untradable": 0,
+     "untradable_share_pct": 0.0
+    }
+   }
+  },
+  "f50d5fc35a21": {
+   "evaluated_at": "2026-11-27T19:37:06+00:00",
+   "final": false,
+   "windows": {
+    "5": {
+     "entry_mode": "next_open",
+     "benchmark": "Nifty 50",
+     "benchmark_return_pct": null,
+     "pending": 5,
+     "picks": {
+      "ONGC.NS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "BANKBARODA.NS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "BANKINDIA.NS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "HINDALCO.NS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "BPCL.NS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      }
+     },
+     "untradable": 0,
+     "untradable_share_pct": 0.0
+    },
+    "10": {
+     "entry_mode": "next_open",
+     "benchmark": "Nifty 50",
+     "benchmark_return_pct": null,
+     "pending": 5,
+     "picks": {
+      "ONGC.NS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "BANKBARODA.NS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "BANKINDIA.NS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "HINDALCO.NS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "BPCL.NS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      }
+     },
+     "untradable": 0,
+     "untradable_share_pct": 0.0
+    },
+    "20": {
+     "entry_mode": "next_open",
+     "benchmark": "Nifty 50",
+     "benchmark_return_pct": null,
+     "pending": 5,
+     "picks": {
+      "ONGC.NS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "BANKBARODA.NS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "BANKINDIA.NS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "HINDALCO.NS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      },
+      "BPCL.NS": {
+       "status": "pending",
+       "return_pct": null,
+       "excess_return_pct": null
+      }
+     },
+     "untradable": 0,
+     "untradable_share_pct": 0.0
     }
    }
   }

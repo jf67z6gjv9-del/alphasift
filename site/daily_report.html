@@ -240,16 +240,16 @@ footer { margin-top: 32px; padding-top: 16px; border-top: 1px solid var(--border
     <div class="meta-row">
       <span><span data-i18n="meta_tdate">交易日</span> <b>2026-11-27</b></span>
       <span>· <span data-i18n="meta_pdate">数据包</span> <code>2026-11-27</code></span>
-      <span class="badge ok" data-i18n="badge_sync">数据同步</span>
+      <span class="badge warn" data-i18n="badge_stale">旧包降级</span>
       <span>· <span data-i18n="meta_policy">口径：</span><code data-i18n="policy_cn_slice">仅A股 · 情绪仅切片观察</code></span>
     </div>
   </header>
-  
-  
+  <div class="stale-banner" data-i18n="stale_banner" data-i18n-vars="{&quot;pack&quot;: &quot;2026-11-27&quot;, &quot;exp&quot;: &quot;2026-11-28&quot;, &quot;reason&quot;: &quot;pack_trade_date=2026-11-27 &lt; expected_trade_date=2026-11-28&quot;}">⚠️ <b>旧包降级模式</b>：数据包日期 <code>2026-11-27</code> 落后于目标交易日 <code>2026-11-28</code>（pack_trade_date=2026-11-27 &lt; expected_trade_date=2026-11-28），数据仅供观察，已自动拦截未强制 IM 推送。</div>
+  <div class="notice"><span data-i18n="deg_prefix">降级说明：</span>Stale pack: pack_trade_date=2026-11-27 &lt; expected_trade_date=2026-11-28</div>
   
     <section class="panel brief-box" id="brief">
       <div class="sec-head"><h2 data-i18n="sec_brief">盘后要点综述</h2><span class="badge accent" data-i18n="brief_badge_rule">规则统计合成</span></div>
-      <div class="brief-headline">盘面处于主升阶段，上涨 96.5%（中位数 +6.91%），涨跌停 428/1（封板率 86.6%），跨策略共识 5 只</div>
+      <div class="brief-headline">【旧包降级】盘面处于主升阶段，上涨 96.5%（中位数 +6.91%），涨跌停 428/1（封板率 86.6%），跨策略共识 5 只</div>
       <div class="grid two-col">
         <div class="sub-panel">
           <h3 class="subhead" data-i18n="sub_regime">盘面宽度与情绪</h3>
@@ -261,7 +261,7 @@ footer { margin-top: 32px; padding-top: 16px; border-top: 1px solid var(--border
         </div>
       </div>
       <div class="grid two-col" style="margin-top:10px;">
-        <div class="sub-panel"><h3 class="subhead" data-i18n="sub_risk">风险提示</h3><ul class="bullet-list"><li>已抽检 20 只核心候选，未触发减持/立案等负面关键词。</li></ul></div>
+        <div class="sub-panel"><h3 class="subhead" data-i18n="sub_risk">风险提示</h3><ul class="bullet-list"><li>数据包滞后（包日期 2026-11-27 &lt; 目标日 2026-11-28），盘面与形态仅供参考。</li><li>已抽检 20 只核心候选，未触发减持/立案等负面关键词。</li></ul></div>
         <div class="sub-panel"><h3 class="subhead" data-i18n="sub_watch">次日观察点</h3><ul class="bullet-list"><li>观察次日上涨占比能否从 96.5% 修复、跌停家数（1 只）是否收敛；</li><li>跟踪昨日涨停溢价（+5.49%）与连板梯队（6 板）高度延续情况；</li><li>复盘多策略共识标的（600941 中国移动 等）次日开盘承接与换手。</li></ul></div>
       </div>
     </section>
@@ -292,7 +292,7 @@ footer { margin-top: 32px; padding-top: 16px; border-top: 1px solid var(--border
         <h2 data-i18n="sec_news">📰 市场热点与政策快讯</h2>
         <span class="badge">东方财富7x24 · 同花顺快讯</span>
       </div>
-      <ul class="bullet-list"><li><span class="badge">市场要闻</span> <b>比亚迪“最贵”车型“鼎曜”限定版定价将超200万元</b> <span class="dim small">东方财富7x24 11-27 19:37</span></li><li><span class="badge">市场要闻</span> <b>马士基码头公司将参股广州港南沙国际通用码头</b> <span class="dim small">东方财富7x24 11-27 19:24</span></li><li><span class="badge">板块产业</span> <b>金溢科技：签订算力服务器配件购销合同</b> <span class="dim small">东方财富7x24 11-27 19:23</span></li><li><span class="badge">公司动态</span> <b>粤海饲料：拟1亿元-2亿元回购公司股份</b> <span class="dim small">东方财富7x24 11-27 19:21</span></li><li><span class="badge">公司动态</span> <b>新开普：拟3000万元-6000万元回购公司股份</b> <span class="dim small">东方财富7x24 11-27 19:21</span></li><li><span class="badge">市场要闻</span> <b>问界新M7首次亮相 搭载华为乾崑智驾ADS 5等</b> <span class="dim small">东方财富7x24 11-27 19:20</span></li></ul>
+      <ul class="bullet-list"><li><span class="badge">板块产业</span> <b>据报道：OpenAI反诉苹果窃取商业机密</b> <span class="dim small">东方财富7x24 11-28 02:24</span></li><li><span class="badge">海外市场</span> <b>威瑞森正就收购Fidium约60亿美元交易进行谈判 以扩大宽带业务版图</b> <span class="dim small">东方财富7x24 11-28 01:32</span></li><li><span class="badge">市场要闻</span> <b>英伟达股价翻红 此前一度下跌2%</b> <span class="dim small">东方财富7x24 11-28 01:22</span></li><li><span class="badge">市场要闻</span> <b>Anthropic涨幅扩大至10% 创盘中高点</b> <span class="dim small">东方财富7x24 11-28 01:04</span></li><li><span class="badge">板块产业</span> <b>据法庭文件和消息显示：特斯拉计划收购德国机床制造商EMAG 并将其纳入人形机器人Optimus的供应链之中</b> <span class="dim small">东方财富7x24 11-28 00:12</span></li><li><span class="badge">市场要闻</span> <b>惠誉将Stellantis的信用评级定为“BBB” 展望为负面</b> <span class="dim small">东方财富7x24 11-27 23:57</span></li></ul>
     </section>
     
   
@@ -331,7 +331,7 @@ footer { margin-top: 32px; padding-top: 16px; border-top: 1px solid var(--border
       <p class="dim small" style="margin:10px 0 0;" data-i18n="pat_wf_boundary_note_stats" data-i18n-vars="{&quot;mid&quot;: &quot;2026-07-03&quot;, &quot;n&quot;: 680}">注：Walk-Forward H1 严格按实际退出日 &lt; 2026-07-03 截断（累计剔除 680 条跨界信号），避免 H2 价格区间泄漏进逆风判定。</p>
     </section>
     
-  <footer><span data-i18n="disclaimer">仅供量化研究与复盘观察，不构成投资建议。</span> · <span data-i18n="footer_tag">量化形态观测与回测基准</span> · <a href="https://github.com/ZhuLinsen/alphasift" data-i18n="footer_repo">GitHub 开源仓库</a> · Generated 2026-11-27T11:47:11.579729+00:00</footer>
+  <footer><span data-i18n="disclaimer">仅供量化研究与复盘观察，不构成投资建议。</span> · <span data-i18n="footer_tag">量化形态观测与回测基准</span> · <a href="https://github.com/ZhuLinsen/alphasift" data-i18n="footer_repo">GitHub 开源仓库</a> · Generated 2026-11-27T19:37:25.422961+00:00</footer>
 </main>
 <script>
 (function () {
