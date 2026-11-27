@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "object": "MarketDigest",
+  "trade_date": "2026-11-27",
+  "market": "us",
+  "markets": [
+    "us"
+  ],
+  "detail_url": "",
+  "generated_at": "2026-11-27T04:22:19.335742+00:00",
+  "strategy_display_names": {
+    "balanced_alpha": "均衡多因子",
+    "blue_chip_income": "蓝筹收益质量",
+    "capital_heat": "资金热度",
+    "dual_low": "双低选股",
+    "global_value": "全球低估值",
+    "low_volatility_quality": "低波质量",
+    "momentum_quality": "趋势质量",
+    "oversold_reversal": "超跌反转",
+    "quality_value": "稳健价值",
+    "shrink_pullback": "缩量回踩",
+    "us_momentum_quality": "US Momentum Quality",
+    "volume_breakout": "放量突破"
+  },
+  "market_sections": [
+    {
+      "market": "us",
+      "market_name": "美股",
+      "benchmark": "S&P 500 (SPY)",
+      "trade_date": "-",
+      "strategy_count": 0,
+      "strategies": [],
+      "top_picks": []
+    }
+  ],
+  "market_news": {
+    "items": [],
+    "sources": [],
+    "errors": []
+  },
+  "degradation": [
+    "No saved runs found for market=us"
+  ],
+  "im_card_markdown": "**AlphaSift 全球市场盘后精选 (2026-11-27)｜美股**\n- **美股**：今日无新增候选\n注：量化形态观测与回测基准，非投资建议。",
+  "im_card_chars": 76
+}
