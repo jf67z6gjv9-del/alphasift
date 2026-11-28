@@ -7,7 +7,7 @@
     "us"
   ],
   "detail_url": "",
-  "generated_at": "2026-11-27T04:22:19.335742+00:00",
+  "generated_at": "2026-11-28T04:02:27.848433+00:00",
   "strategy_display_names": {
     "balanced_alpha": "均衡多因子",
     "blue_chip_income": "蓝筹收益质量",
@@ -27,10 +27,318 @@
       "market": "us",
       "market_name": "美股",
       "benchmark": "S&P 500 (SPY)",
-      "trade_date": "-",
-      "strategy_count": 0,
-      "strategies": [],
-      "top_picks": []
+      "trade_date": "2026-11-27",
+      "strategy_count": 2,
+      "strategies": [
+        {
+          "run_id": "a8b6e06aabdc",
+          "strategy": "global_value",
+          "display_name": "全球低估值",
+          "market": "us",
+          "track": "rules",
+          "llm_ranked": false,
+          "llm_market_view": "",
+          "created_at": "2026-11-28T04:02:23.923908+00:00",
+          "pick_count": 5,
+          "degradation": [],
+          "picks": [
+            {
+              "rank": 1,
+              "code": "CTVA",
+              "name": "Corteva, Inc.",
+              "industry": "Basic Materials",
+              "price": 8.26,
+              "pe_ratio": 6.4,
+              "pb_ratio": 0.54,
+              "market_cap_yi": 55.1,
+              "final_score": 79.32,
+              "screen_score": 76.92,
+              "change_pct": 0.36,
+              "risk_level": "low",
+              "risk_flags": [],
+              "ranking_reason": "流动性+估值因子靠前",
+              "announcement_risk_flags": []
+            },
+            {
+              "rank": 2,
+              "code": "GDS",
+              "name": "GDS Holdings Limited",
+              "industry": "Technology",
+              "price": 13.49,
+              "pe_ratio": 7.7,
+              "pb_ratio": 0.6,
+              "market_cap_yi": 27.0,
+              "final_score": 78.75,
+              "screen_score": 75.15,
+              "change_pct": -2.25,
+              "risk_level": "low",
+              "risk_flags": [],
+              "ranking_reason": "超跌反转+流动性因子靠前",
+              "announcement_risk_flags": []
+            },
+            {
+              "rank": 3,
+              "code": "RUN",
+              "name": "Sunrun Inc.",
+              "industry": "Technology",
+              "price": 6.97,
+              "pe_ratio": 3.5,
+              "pb_ratio": 0.46,
+              "market_cap_yi": 16.9,
+              "final_score": 76.74,
+              "screen_score": 74.34,
+              "change_pct": 1.01,
+              "risk_level": "low",
+              "risk_flags": [],
+              "ranking_reason": "估值+活跃度因子靠前",
+              "announcement_risk_flags": []
+            },
+            {
+              "rank": 4,
+              "code": "YPF",
+              "name": "YPF Sociedad Anónima",
+              "industry": "Energy",
+              "price": 31.85,
+              "pe_ratio": 5.9,
+              "pb_ratio": 0.92,
+              "market_cap_yi": 125.3,
+              "final_score": 75.53,
+              "screen_score": 73.13,
+              "change_pct": 1.27,
+              "risk_level": "low",
+              "risk_flags": [],
+              "ranking_reason": "流动性+估值因子靠前",
+              "announcement_risk_flags": []
+            },
+            {
+              "rank": 5,
+              "code": "CMCSA",
+              "name": "Comcast Corporation",
+              "industry": "Communication Services",
+              "price": 26.08,
+              "pe_ratio": 8.3,
+              "pb_ratio": 1.0,
+              "market_cap_yi": 926.1,
+              "final_score": 73.3,
+              "screen_score": 73.3,
+              "change_pct": 1.36,
+              "risk_level": "low",
+              "risk_flags": [],
+              "ranking_reason": "流动性+市值规模因子靠前",
+              "announcement_risk_flags": []
+            }
+          ]
+        },
+        {
+          "run_id": "5276ade07cbe",
+          "strategy": "us_momentum_quality",
+          "display_name": "US Momentum Quality",
+          "market": "us",
+          "track": "rules",
+          "llm_ranked": false,
+          "llm_market_view": "",
+          "created_at": "2026-11-28T04:02:23.975878+00:00",
+          "pick_count": 5,
+          "degradation": [],
+          "picks": [
+            {
+              "rank": 1,
+              "code": "B",
+              "name": "Barrick Mining Corporation",
+              "industry": "Basic Materials",
+              "price": 36.54,
+              "pe_ratio": 9.3,
+              "pb_ratio": 2.16,
+              "market_cap_yi": 595.1,
+              "final_score": 81.39,
+              "screen_score": 79.59,
+              "change_pct": 5.85,
+              "risk_level": "low",
+              "risk_flags": [],
+              "ranking_reason": "流动性+活跃度因子靠前",
+              "announcement_risk_flags": []
+            },
+            {
+              "rank": 2,
+              "code": "PBR-A",
+              "name": "Petróleo Brasileiro S.A. - Petrobras",
+              "industry": "Energy",
+              "price": 14.99,
+              "pe_ratio": 3.6,
+              "pb_ratio": 0.96,
+              "market_cap_yi": 1026.3,
+              "final_score": 80.07,
+              "screen_score": 78.27,
+              "change_pct": 5.64,
+              "risk_level": "low",
+              "risk_flags": [],
+              "ranking_reason": "市值规模+估值因子靠前",
+              "announcement_risk_flags": []
+            },
+            {
+              "rank": 3,
+              "code": "PBR",
+              "name": "Petróleo Brasileiro S.A. - Petrobras",
+              "industry": "Energy",
+              "price": 16.84,
+              "pe_ratio": 4.0,
+              "pb_ratio": 1.08,
+              "market_cap_yi": 1085.2,
+              "final_score": 79.21,
+              "screen_score": 77.41,
+              "change_pct": 4.92,
+              "risk_level": "low",
+              "risk_flags": [],
+              "ranking_reason": "市值规模+流动性因子靠前",
+              "announcement_risk_flags": []
+            },
+            {
+              "rank": 4,
+              "code": "QCOM",
+              "name": "QUALCOMM Incorporated",
+              "industry": "Technology",
+              "price": 179.27,
+              "pe_ratio": 14.1,
+              "pb_ratio": 6.32,
+              "market_cap_yi": 1918.2,
+              "final_score": 77.42,
+              "screen_score": 75.62,
+              "change_pct": 6.29,
+              "risk_level": "low",
+              "risk_flags": [],
+              "ranking_reason": "流动性+市值规模因子靠前",
+              "announcement_risk_flags": []
+            },
+            {
+              "rank": 5,
+              "code": "NU",
+              "name": "Nu Holdings Ltd.",
+              "industry": "Financial Services",
+              "price": 12.91,
+              "pe_ratio": 16.1,
+              "pb_ratio": 4.36,
+              "market_cap_yi": 624.7,
+              "final_score": 76.17,
+              "screen_score": 76.17,
+              "change_pct": 4.45,
+              "risk_level": "low",
+              "risk_flags": [],
+              "ranking_reason": "流动性+活跃度因子靠前",
+              "announcement_risk_flags": []
+            }
+          ]
+        }
+      ],
+      "top_picks": [
+        {
+          "code": "B",
+          "name": "Barrick Mining Corporation",
+          "industry": "Basic Materials",
+          "strategy_count": 1,
+          "strategies": [
+            "us_momentum_quality"
+          ],
+          "strategy_display_names": [
+            "US Momentum Quality"
+          ],
+          "avg_final_score": 81.39,
+          "price": 36.54,
+          "pe_ratio": 9.3,
+          "pb_ratio": 2.16,
+          "change_pct": 5.85,
+          "ranking_reason": "流动性+活跃度因子靠前"
+        },
+        {
+          "code": "PBR-A",
+          "name": "Petróleo Brasileiro S.A. - Petrobras",
+          "industry": "Energy",
+          "strategy_count": 1,
+          "strategies": [
+            "us_momentum_quality"
+          ],
+          "strategy_display_names": [
+            "US Momentum Quality"
+          ],
+          "avg_final_score": 80.07,
+          "price": 14.99,
+          "pe_ratio": 3.6,
+          "pb_ratio": 0.96,
+          "change_pct": 5.64,
+          "ranking_reason": "市值规模+估值因子靠前"
+        },
+        {
+          "code": "CTVA",
+          "name": "Corteva, Inc.",
+          "industry": "Basic Materials",
+          "strategy_count": 1,
+          "strategies": [
+            "global_value"
+          ],
+          "strategy_display_names": [
+            "全球低估值"
+          ],
+          "avg_final_score": 79.32,
+          "price": 8.26,
+          "pe_ratio": 6.4,
+          "pb_ratio": 0.54,
+          "change_pct": 0.36,
+          "ranking_reason": "流动性+估值因子靠前"
+        },
+        {
+          "code": "PBR",
+          "name": "Petróleo Brasileiro S.A. - Petrobras",
+          "industry": "Energy",
+          "strategy_count": 1,
+          "strategies": [
+            "us_momentum_quality"
+          ],
+          "strategy_display_names": [
+            "US Momentum Quality"
+          ],
+          "avg_final_score": 79.21,
+          "price": 16.84,
+          "pe_ratio": 4.0,
+          "pb_ratio": 1.08,
+          "change_pct": 4.92,
+          "ranking_reason": "市值规模+流动性因子靠前"
+        },
+        {
+          "code": "GDS",
+          "name": "GDS Holdings Limited",
+          "industry": "Technology",
+          "strategy_count": 1,
+          "strategies": [
+            "global_value"
+          ],
+          "strategy_display_names": [
+            "全球低估值"
+          ],
+          "avg_final_score": 78.75,
+          "price": 13.49,
+          "pe_ratio": 7.7,
+          "pb_ratio": 0.6,
+          "change_pct": -2.25,
+          "ranking_reason": "超跌反转+流动性因子靠前"
+        },
+        {
+          "code": "QCOM",
+          "name": "QUALCOMM Incorporated",
+          "industry": "Technology",
+          "strategy_count": 1,
+          "strategies": [
+            "us_momentum_quality"
+          ],
+          "strategy_display_names": [
+            "US Momentum Quality"
+          ],
+          "avg_final_score": 77.42,
+          "price": 179.27,
+          "pe_ratio": 14.1,
+          "pb_ratio": 6.32,
+          "change_pct": 6.29,
+          "ranking_reason": "流动性+市值规模因子靠前"
+        }
+      ]
     }
   ],
   "market_news": {
@@ -38,9 +346,7 @@
     "sources": [],
     "errors": []
   },
-  "degradation": [
-    "No saved runs found for market=us"
-  ],
-  "im_card_markdown": "**AlphaSift 全球市场盘后精选 (2026-11-27)｜美股**\n- **美股**：今日无新增候选\n注：量化形态观测与回测基准，非投资建议。",
-  "im_card_chars": 76
+  "degradation": [],
+  "im_card_markdown": "**AlphaSift 全球市场盘后精选 (2026-11-27)｜美股**\n- **美股**（2 组策略 · 2026-11-27）：B Barrick (81.4分)、PBR-A Petróleo(80.1分)、CTVA Corteva,(79.3分)\n注：量化形态观测与回测基准，非投资建议。",
+  "im_card_chars": 149
 }
